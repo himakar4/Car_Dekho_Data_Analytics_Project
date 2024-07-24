@@ -2,7 +2,7 @@
 Overview
 - This project involves data analytics on a dataset provided in CSV format. We utilized Google Colab as our cloud platform for analysis. Our goal was to uncover insights from the dataset, which are documented in the cardekho.ipynb notebook. The project report is also included in the repository.
 
-#Table of Contents
+# Table of Contents
  - Introduction
 - Dataset
 - Installation
