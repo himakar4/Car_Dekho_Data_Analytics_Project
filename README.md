@@ -9,7 +9,6 @@ Overview
 - Usage
 - Project Structure
 - Insights
-- Contributing
 
 # Introduction
 - This repository contains the code and analysis for a data analytics project. The primary objective is to explore and analyze the dataset to derive meaningful insights.
@@ -31,4 +30,12 @@ Overview
  # Project Structure
 - cardekho.ipynb: Jupyter Notebook containing the data analysis and insights.
 - car_Dehko_DA.csv: The dataset used for analysis.
-- Data Analytics Internship project.ppt: Detailed project report documenting the analysis process and findings. 
+- Data Analytics Internship project.ppt: Detailed project report documenting the analysis process and findings.
+
+ # Insights
+- The key insights from the analysis are stored in the cardekho.ipynb notebook. These insights include:
+- Statistical summaries of the data
+- Visualizations of various attributes
+- Correlation analysis
+- Key trends and patterns observed
+
